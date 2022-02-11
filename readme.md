@@ -1,6 +1,6 @@
 # Data & Pizza 01
 
-![ih](images/ih.png)
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 ![datapizza](images/head_data_pizza.png)
 
